@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning robotics
 - 💞️ I’m looking to collaborate on developers
 - 📫 How to reach me government collge of engineering erode
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: loser
+- ⚡ Fun fact: everything is failure
 
 <!---
 DEVAPRAKSAM/DEVAPRAKSAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
