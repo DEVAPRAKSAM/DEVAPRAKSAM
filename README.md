@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @DEVAPRAKSAM G
-- 👀 I’m interested in core and software
-- 🌱 I’m currently learning robotics
-- 💞️ I’m looking to collaborate on developers
-- 📫 How to reach me government collge of engineering erode
-- 😄 Pronouns: loser
-- ⚡ Fun fact: everything is failure
+# 👋 Hi, I'm Devapraksam!  
+🚀 Electronics & Communication Engineer | AI Developer | Open Source Contributor  
 
-<!---
-DEVAPRAKSAM/DEVAPRAKSAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me  
+- 🔭 Currently working on **GPU-based Semantic Segmentation Web App**  
+- 🌱 Learning **Deep Learning, Web Development & Cybersecurity**  
+- 💡 Interested in **AI, Open Source, and Research Projects**  
+- 📫 Contact me at: [your email]  
+- 🔗 Check out my portfolio: [your portfolio link]  
+
+## 🛠 Tech Stack  
+💻 **Programming:** Python, C, JavaScript  
+📡 **Web Development:** HTML, CSS, React  
+🤖 **AI & ML:** TensorFlow, OpenCV, Deep Learning  
+🎯 **Other:** Linux, Git, MySQL  
+
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEVAPRAKSAM&show_icons=true&theme=radical)  
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/DEVAPRAKSAM)  
