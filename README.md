@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Devapraksam!  
 🚀 Electronics & Communication Engineer | AI Developer | Open Source Contributor  
 
-![Profile Banner](https://your-banner-image-url.com)
 
 ## 🚀 About Me  
 - 🔭 Currently working on **GeoRaster Image Processing & AI Projects**  
