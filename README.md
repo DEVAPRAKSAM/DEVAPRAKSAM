@@ -25,5 +25,7 @@
 [![GeoRaster Processing](https://github-readme-stats.vercel.app/api/pin/?username=DEVAPRAKSAM&repo=GeoRaster-Processing&theme=radical)](https://github.com/DEVAPRAKSAM/GeoRaster-Processing)  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/
+devaprakasam-g-88092b291
+)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/DEVAPRAKSAM)  
